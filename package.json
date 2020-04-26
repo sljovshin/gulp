@@ -1,0 +1,25 @@
+{
+  "name": "automated_module",
+  "version": "1.0.0",
+  "description": "Workflow 2 MA3 task 9",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Gulp",
+    "first",
+    "try"
+  ],
+  "author": "Sondre J Ljovshin",
+  "license": "ISC",
+  "dependencies": {
+    "gulp-imagemin": "^7.1.0"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-csso": "^4.0.1",
+    "gulp-sass": "^4.1.0",
+    "browser-sync": "^2.26.7"
+  }
+}
